@@ -1,0 +1,21 @@
+<html>
+<head>
+<style>
+table
+{
+border-collapse:collapse;
+}
+</style>
+</head>
+<body>
+<table border="2">
+<tr>
+<th rowspan="2">Name Of Train</th>
+<th rowspan="2">Place</th>
+<th rowspan="2">Destination</th>
+<th rowspan="2">Train No</th>
+<th>Time</th>
+<th rowspan="2">Fair</th>
+</table>
+</body>
+</html>
